@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test task new</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="notification_and_number_of_page">notification and number of page</string>
+    <string name="one">1</string>
+</resources>
